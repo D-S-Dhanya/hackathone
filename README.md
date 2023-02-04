@@ -1,3 +1,3 @@
 # hackathone
 
-## Initiaal commit by suryan
+## Initial commit by suryan
